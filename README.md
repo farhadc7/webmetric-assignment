@@ -1,4 +1,4 @@
-# assignmet's hints
+# assignment's hints
 ## frameworks and tools:
 - Java 17
 - Spring boot
