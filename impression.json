@@ -1,0 +1,38 @@
+[
+    {
+    "appId":2,
+    "countryCode":"RU",
+    "advertiserId":2546
+
+},
+    {
+    "appId":2,
+    "countryCode":"IT",
+    "advertiserId":2547
+
+},
+    {
+    "appId":2,
+    "countryCode":"UK",
+    "advertiserId":2548
+
+},
+    {
+    "appId":2,
+    "countryCode":"UK",
+    "advertiserId":2549
+
+},
+    {
+    "appId":2,
+    "countryCode":"SW",
+    "advertiserId":2550
+
+},
+    {
+    "appId":2,
+    "countryCode":"US",
+    "advertiserId":2551
+
+}
+]
