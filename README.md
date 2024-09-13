@@ -7,21 +7,23 @@
 ## firsts question
 ### upload impression events from json file:
 
-  *localhost:8080/impression/v1/save-file*
+  *curl --location 'localhost:8080/impression/v1/save-file' \
+--form 'impression=@"./impression.json"'*
 
 sample input file will be found inside the project
 
 
 ### upload click evenets from json file
 
- *localhost:8080/click/v1/save-file*
+ *curl --location 'localhost:8080/click/v1/save-file' \
+--form 'click=@"./click.json"'*
 
 sample input file will be found inside the project.
 
 to upload click events we will be needed impression id which already exists in database.
 
 ## Second question
-###to get performance statistics we can use following api:
+### to get performance statistics we can use following api:
 
  *curl --location 'localhost:8080/stat/v1/app-country-performance'*
 
